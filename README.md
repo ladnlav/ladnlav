@@ -2,6 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">MIPT DREC 3d year student, avarage ML-enjoyer </h3>
 
+## I’m currently working on:
+[![Audiodeepfake](https://img.shields.io/badge/-Audiodeepfake-090909?style=for-the-badge&logo=python)](https://github.com/ladnlav/Audio_deepfake)
+
+## Some projects:
+[![transport_map](https://img.shields.io/badge/-transport_map-090909?style=for-the-badge&logo=python)](https://github.com/ladnlav/transport_map)
+[![MC_fan](https://img.shields.io/badge/-MC_fan-090909?style=for-the-badge&logo=c)](https://github.com/ladnlav/MC_fan)
+
 ## Some of my languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ladnlav)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/ladnlav)
@@ -9,9 +16,7 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/ladnlav)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/ladnlav)
 
-
-
-<details>
+[Statistics]<details>
 <p align="center">
   <a href="https://github.com/ladnlav">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ladnlav&theme=transparent" />
