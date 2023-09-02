@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vladislav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">MIPT DREC 3d year student, avarage ML-enjoyer </h3>
+<h3 align="center">MIPT DREC 3d year student, average ML-enjoyer </h3>
 
 ## I’m currently working on:
 [![Audiodeepfake](https://img.shields.io/badge/-Audiodeepfake-090909?style=for-the-badge&logo=python)](https://github.com/ladnlav/Audio_deepfake)
